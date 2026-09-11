@@ -1,0 +1,5 @@
+node_modules/
+database/cinema.db
+public/uploads/*
+!public/uploads/.gitkeep
+.env
